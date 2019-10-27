@@ -295,7 +295,7 @@ it should be possible to install it with simply:
     sudo apt install matrix-synapse
 ```
 
-There is also a version of `matrix-synapse` in `stretch-backports`. Please see
+There are also newer versions of `matrix-synapse` in `stretch-backports` and `buster-backports`. Please see
 the [Debian documentation on
 backports](https://backports.debian.org/Instructions/) for information on how
 to use them.
